@@ -1,5 +1,7 @@
 # necllmancer
 
+![image](https://github.com/O6lvl4/necllmancer/assets/96694331/12262379-3492-40b0-9ee3-b7c08724c8a9)
+
 ## Overview
 
 "necllmancer" is a novel platform that coordinates multiple Large Language Models (LLM) instances to efficiently accomplish complex tasks. Each LLM instance undertakes specific roles and tasks, contributing to an integrated work environment. The system is designed to allow users to visually track each instance's tasks through an interactive interface, offering guidance as needed.
