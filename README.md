@@ -19,7 +19,7 @@ The aim of this project is to provide an environment where AI instances collabor
 
 ## Usage
 
-(Provide instructions here for project setup, installation, and how to use.)
+`WIP`
 
 ## Contributing
 
